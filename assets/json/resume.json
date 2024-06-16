@@ -47,17 +47,18 @@
       "startDate": "2022",
       "endDate": "2024",
       "score": "3.81",
-      "courses": ["Thesis Topic: Designing Optimal Compact Oblivious Routing for Datacenter Networks in Polynomial Time", "Advisor: Dr. Sucha Supittayapornpong"]
+      "courses": ["Thesis Topic: Designing Optimal Compact Oblivious Routing for Datacenter Networks in Polynomial Time", "Supervisor: Dr. Sucha Supittayapornpong"]
     },
     {
       "institution": "Kasetsart University",
       "location": "Bangkok, Thailand",
       "url": "https://cpe.ku.ac.th",
-      "area": "Computer Engineering",
+      "area": "High Performance Computing, Machine Learning, and Software Development",
       "studyType": "B.Eng. (Computer Engineering)",
       "startDate": "2013",
       "endDate": "2017",
-      "score": "3.16"
+      "score": "3.16",
+      "courses": ["Senior Project: Deep Reinforcement Learning for Trading", "Supervisor: Prof. Dr. Chantana Chantrapornchai"]
     }
   ],
   "awards": [
