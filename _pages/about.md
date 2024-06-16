@@ -16,7 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I was a research assistant and engineer <a href='https://vistec.ac.th/'>@NDS-VISTEC</a> worked on oblivious routing problem in datacenter networks under the supervision of [Dr. Sucha Supittayapornpong (VISTEC)](https://vistec.ac.th/faculty-adjunct-professors-ist-sucha-supittayapornpong) and [Prof. Dr. Chakchai So-In (KKU)](https://csperson.kku.ac.th/chakchai/) supported by Thailand Science Research and Innovation (TSRI). We also published two top-tier research papers in computer networking (IEEE INFOCOM, IEEE/ACM Transactions on Networking). 
+I was a research assistant and engineer <a href='https://vistec.ac.th/'>@NDS-VISTEC</a>, working on oblivious routing problem in datacenter networks under the supervision of [Dr. Sucha Supittayapornpong (VISTEC)](https://vistec.ac.th/faculty-adjunct-professors-ist-sucha-supittayapornpong) and [Prof. Dr. Chakchai So-In (KKU)](https://csperson.kku.ac.th/chakchai/) supported by Thailand Science Research and Innovation (TSRI). We also published two top-tier research papers in computer networking (IEEE INFOCOM, IEEE/ACM Transactions on Networking). 
+
+
 
 <h4>Short Bio</h4>
 He received the B.Eng. degree in Computer Engineering from [Kasetsart University, Thailand](https://cpe.ku.ac.th/). He is currently pursuing the M.Eng. degree in Information Science and Technology with [Vidyasirimedhi Institute of Science and Technology, Thailand](https://www.vistec.ac.th/) under the supervision of [Dr. Sucha Supittayapornpong](https://vistec.ac.th/faculty-adjunct-professors-ist-sucha-supittayapornpong). His research interests include routing, datacenter networking, and optimization.
