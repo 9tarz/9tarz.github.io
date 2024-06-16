@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - 9tarz
+  - NDS-VISTEC
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - NDS-VISTEC/DCN-Oblivious-Routing
+  - NDS-VISTEC/Oblivious-Routing-Automorphism 
