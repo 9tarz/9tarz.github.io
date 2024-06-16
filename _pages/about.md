@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bangkok, Thailand </p>
+    <p> Living in Bangkok, Thailand </p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Currently, working on routing problem in datacenter networks. 
 
-Kanatip Chitavisutthivong received the B.Eng. degree in computer engineering from [Kasetsart University, Thailand](https://cpe.ku.ac.th/). He is currently pursuing the M.Eng. degree in information science and technology with [Vidyasirimedhi Institute of Science and Technology, Thailand](https://www.vistec.ac.th/). His research interests include routing, datacenter networking, and optimization.
+He received the B.Eng. degree in Computer Engineering from [Kasetsart University, Thailand](https://cpe.ku.ac.th/). He is currently pursuing the M.Eng. degree in information science and technology with [Vidyasirimedhi Institute of Science and Technology, Thailand](https://www.vistec.ac.th/). His research interests include routing, datacenter networking, and optimization.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
