@@ -1,14 +1,14 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"chakchai":
+  - firstname: ["Chakchai", "Chakchai So-In"]
+    url: https://csperson.kku.ac.th/chakchai/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"sucha":
+  - firstname: ["Sucha", "Sucha Supittayapornpong"]
+    url: https://vistec.ac.th/faculty-adjunct-professors-ist-sucha-supittayapornpong
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"raheem":
+  - firstname: ["Raheem", "Raheem Sarwar"]
+    url: https://www.mmu.ac.uk/staff/profile/dr-raheem-sarwar
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
