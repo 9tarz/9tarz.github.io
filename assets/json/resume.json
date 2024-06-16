@@ -46,7 +46,8 @@
       "studyType": "M.Eng. (Information Science and Technology)",
       "startDate": "2022",
       "endDate": "2024",
-      "score": "3.81"
+      "score": "3.81",
+      "courses": ["Thesis Topic: Designing Optimal Compact Oblivious Routing for Datacenter Networks in Polynomial Time", "Advisor: Dr. Sucha Supittayapornpong"]
     },
     {
       "institution": "Kasetsart University",
@@ -74,7 +75,7 @@
   ],
   "publications": [
     {
-      "name": "Designing optimal compact oblivious routing for datacenter networks in polynomial Time",
+      "name": "Designing Optimal Compact Oblivious Routing for Datacenter Networks in Polynomial Time",
       "publisher": "IEEE INFOCOM 2023",
       "releaseDate": "2023-08-29",
       "url": "https://doi.org/10.1109/INFOCOM53939.2023.10228948"
