@@ -16,9 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Currently, working on routing problem in datacenter networks. 
+Currently, I am working on oblivious routing problem in datacenter networks. 
 
-He received the B.Eng. degree in Computer Engineering from [Kasetsart University, Thailand](https://cpe.ku.ac.th/). He is currently pursuing the M.Eng. degree in information science and technology with [Vidyasirimedhi Institute of Science and Technology, Thailand](https://www.vistec.ac.th/). His research interests include routing, datacenter networking, and optimization.
+<h4>Short Bio</h4>
+He received the B.Eng. degree in Computer Engineering from [Kasetsart University, Thailand](https://cpe.ku.ac.th/). He is currently pursuing the M.Eng. degree in information science and technology with [Vidyasirimedhi Institute of Science and Technology, Thailand](https://www.vistec.ac.th/) under the supervision of [Dr. Sucha Supittayapornpong](https://vistec.ac.th/faculty-adjunct-professors-ist-sucha-supittayapornpong). His research interests include routing, datacenter networking, and optimization.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
