@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: research assistant and engineer <a href='https://vistec.ac.th/'>@NDS-VISTEC</a>
+subtitle: I am a research assistant and engineer <a href='https://vistec.ac.th/'>@NDS-VISTEC</a>
 
 profile:
   align: right
