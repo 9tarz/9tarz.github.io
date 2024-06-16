@@ -99,5 +99,14 @@
       "fluency": "Professional working proficiency",
       "icon": ""
     }
+  ],
+  "certificates": [
+    {
+      "name": "CU-TEP - Overall 86/120",
+      "date": "2023-12-16",
+      "issuer": "Chulalongkorn University Academic Testing Center ",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    }
   ]
 }
